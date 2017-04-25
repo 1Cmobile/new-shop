@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ru-RU
-title: new-shop. Новый магазин. Новая модель взаимодействия покупателя и продавца
+title: new-shop Новый магазин
 email: webmaster@new-shop.pro
 description: Новая модель взаимодействия покупателя и продавца. Добро пожаловать
 baseurl: # the optional subpath of your site, e.g. "/blog"
