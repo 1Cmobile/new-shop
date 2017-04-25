@@ -15,9 +15,10 @@ introduction: |
   - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 actions:
   - label: "Создать свой магазин"
-    icon: github
-    url: "https://viber.com/new-shop"
+    #icon: github
+    url: "viber://pa?chatURI=new-shop&context=start"
   - label: "Посмотреть пример"
-    icon: download
+    #icon: download
+    
     url: "viber://pa?chatURI=newshop&context=start"
 ---
