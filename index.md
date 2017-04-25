@@ -14,10 +14,10 @@ introduction: |
   - Disqus Comments and Google Analytics support
   - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 actions:
-  - label: "Get Started"
+  - label: "Создать свой магазин"
     icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
+    url: "https://viber.com/new-shop"
+  - label: "Посмотреть пример"
     icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
+    url: "viber://pa?chatURI=newshop&context=start"
 ---
