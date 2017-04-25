@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "О проекте"
 layout: about
 ---
 
