@@ -19,6 +19,5 @@ actions:
     url: "viber://pa?chatURI=new-shop&context=start"
   - label: "Посмотреть пример"
     #icon: download
-    
     url: "viber://pa?chatURI=newshop&context=start"
 ---
