@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru-RU" class="no-js">
+<html lang="{{ site.lang | ru_RU }}" class="no-js">
   {% include head.html %}
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
 
