@@ -2,7 +2,7 @@
 layout: home
 comments: true
 paginate: true
-alt_title: "new-shop. Новый магазин."
+alt_title: "new-shop - Новый магазин"
 sub_title: "Новая модель взаимодействия покупателя и продавца. Будь первым в технологиях."
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
@@ -23,8 +23,8 @@ introduction: |
 actions:
   - label: "Создать свой магазин"
     #icon: github
-    url: "viber://pa?chatURI=new-shop&context=start"
+    url: "https://viber.com/new-shop"
   - label: "Посмотреть пример"
     #icon: download
-    url: "viber://pa?chatURI=newshop&context=start"
+    url: "https://viber.com/newshop"
 ---
