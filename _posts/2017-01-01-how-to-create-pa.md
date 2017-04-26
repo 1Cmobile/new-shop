@@ -1,10 +1,12 @@
 ---
 title: "Как создать Паблик Аккаунт Viber"
 categories:
-  - Помощь
+  - help
+  - viber
 tags:
   - помощь
   - паблик
+paginate: true
 last_modified_at: 2017-03-09T14:25:52-05:00
 date: 2017-04-20T14:25:52-05:00
 ---
