@@ -1,5 +1,6 @@
 ---
 layout: home
+comments: true
 paginate: true
 alt_title: "new-shop. Новый магазин."
 sub_title: "Новая модель взаимодействия покупателя и продавца. Будь первым в технологиях."
