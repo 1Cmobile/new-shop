@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: ru_RU
-title: new-shop. Новый магазин
+title: new-shop - Новый магазин
 email: webmaster@new-shop.pro
 description: Новая модель взаимодействия покупателя и продавца. Буть первым в технологиях.
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -26,6 +26,9 @@ author:
 twitter_username:
 github_username:
 logo: /assets/images/logo.png # path of site logo, e.g. "/assets/images/logo.png"
+yandex_analytics: true
+disqus:
+  shortname: new-shop-pro
 
 # Build settings
 markdown: kramdown
@@ -74,4 +77,4 @@ defaults:
       type: posts
     values:
       layout: post
-read_time: true
+      read_time: true
