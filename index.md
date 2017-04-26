@@ -2,8 +2,8 @@
 layout: home
 comments: true
 paginate: true
-alt_title: "new-shop - Новый магазин"
-sub_title: "Новая модель взаимодействия покупателя и продавца. Будь первым в технологиях."
+alt_title: "new-shop - Новый Магазин"
+sub_title: "Новая модель взаимодействия покупателя и продавца."
 image: /assets/images/amine-ounnas-180287.jpg
 introduction: |
   Ваша витрина - в каждом смартфоне. 
@@ -21,10 +21,16 @@ introduction: |
   - Управляйте каталогом. Назначайте цену, изображения, меняйте название Ваших позиций в каталоге
   - Объединяйте позиции каталога в группы с понятным названием и пиктограммой
 actions:
-  - label: "Создать свой магазин"
-    #icon: github
+  - label: "Управление"
+    icon: stackoverflow
+    url: "viber://pa?chatURI=new-shop&context=start"
+  - label: "Пример"
+    icon: stackoverflow
+    url: "viber://pa?chatURI=newshop&context=start"
+  - label: "new-shop (ПА)"
+    icon: codepen
     url: "https://viber.com/new-shop"
-  - label: "Посмотреть пример"
-    #icon: download
+  - label: "Пример (ПА)"
+    icon: codepen
     url: "https://viber.com/newshop"
 ---
