@@ -1,16 +1,16 @@
 # ----
 # Site
 
-title: Base
+title: viber-bot - Платформа управления
 url: "http://viber-bot.ru/"
 baseurl:
 google_analytics_key:
-disqus_shortname:
+disqus_shortname: viber-bot
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Платформа управления Viber ботами
 author:
   name: viber-bot (c)
   email: bot@viber-bot.ru
