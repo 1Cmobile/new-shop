@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Бот-платформа Viber
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).

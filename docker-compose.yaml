@@ -1,0 +1,12 @@
+version: "3"
+services:
+  site:
+    command: jekyll serve --watch
+    # image: jekyll/jekyll:latest
+    image: jekyll/builder:latest    
+    volumes:
+      - ./:/srv/jekyll
+    ports:
+      - 8080:4000
+      - 35729:35729
+      - 3000:3000
