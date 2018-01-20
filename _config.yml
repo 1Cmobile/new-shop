@@ -37,7 +37,7 @@ exclude:
 
 collections:
   docs:
-    title: Documentation
+    title: Документация
     permalink: /:path/
     output: true
 
