@@ -2,8 +2,8 @@
 # Site
 
 title: viber-bot - Платформа управления
-url: "http://viber-bot.ru"
-baseurl: viber-bot.ru
+url: viber-bot.ru
+baseurl:
 google_analytics_key:
 show_full_navigation: true
 
