@@ -2,7 +2,7 @@
 # Site
 
 title: Base
-url: "https://orange-ape.cloudvent.net/"
+url: "http://viber-bot.ru/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -12,13 +12,13 @@ newsletter_action:
 logo: /siteicon.png
 description: Knowledge base template for Jekyll.
 author:
-  name:
-  email:
+  name: viber-bot (c)
+  email: bot@viber-bot.ru
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: Запрос функционала
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://github.com/best-tech/new-shop/issues
 
 # -----
 # Build
