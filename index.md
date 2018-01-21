@@ -2,14 +2,17 @@
 title: Дом ботов Viber
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+> Настройте своего бота Viber прямо в Viber
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Платформа предоставляет возможность очень просто и быстро запустить своего бота Viber.
+Все что Вам нужно это:
+1. Отправить сервисному боту свой ключ API
+2. Перейти в диалог со своим ботом и в нем настроить функциональность
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+Посмотрите как это просто:
+
+
+[l/ps](/frs)
 
 ### Getting Started
 
