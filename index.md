@@ -1,5 +1,5 @@
 ---
-title: Бот-платформа Viber
+title: Дом ботов Viber
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
